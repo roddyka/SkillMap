@@ -14,3 +14,5 @@ App to found and signup developers and show on google map api near to you.
 Package:
 - Express
 - Nodemon
+- Mongoose
+- axios

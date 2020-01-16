@@ -8,7 +8,7 @@ const app = express();
 
 //conexao com o banco de dados mongodb
 //senha padrao (lembrar)
-mongoose.connect("mongodb+srv://rodrigo:A3414430a@cluster0-okzyc.mongodb.net/week10?retryWrites=true&w=majority",{
+mongoose.connect("mongodb+srv://rodrigo:A34144304a@cluster0-okzyc.mongodb.net/test?retryWrites=true&w=majority",{
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
@@ -16,4 +16,4 @@ mongoose.connect("mongodb+srv://rodrigo:A3414430a@cluster0-okzyc.mongodb.net/wee
 app.use(express.json());
 app.use(routes);
 
-app.listen(3333);
+app.listen(3334);

@@ -15,4 +15,4 @@ Package:
 - Express
 - Nodemon
 - Mongoose
-- axios
+- axios (to conect to external APIs)

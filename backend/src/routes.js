@@ -12,6 +12,7 @@ routes.get("/", (request,response) => {
 routes.post("/devs", DevController.store);
 routes.get("/devs", DevController.index);
 routes.put("/devs", DevController.update);
+routes.delete("/devs", DevController.delete);
 
 routes.get("/search", SearchController.index);
 

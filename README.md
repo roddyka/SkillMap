@@ -10,6 +10,7 @@ App to found and signup developers and show on google map api near to you.
 - NodeJS (https://nodejs.org/en/download/)
 - Yarn (https://yarnpkg.com/en/docs/install)
 - MongoDB Atlas (https://cloud.mongodb.com/)
+- MongoDB (https://www.mongodb.com/download-center/compass)
 
 Package:
 - Express

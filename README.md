@@ -3,6 +3,14 @@ Node JS + React + React native.
 
 App to found and signup developers and show on google map api near to you.
 
+Backend: NODEJS - 100%
+Creating routes to search, save, delete and change users. (ok)
+
+FrontEnd WEB: REACT - 45%
+Creating view to create users (falta verificar o porque da latitude e longitude nao estar funcionando direito ainda)
+
+APP MOBILE: REACT NATIVE 0%
+
 # Stack:
 
 - Download packages for windows (https://chocolatey.org/docs/installation) 

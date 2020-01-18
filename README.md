@@ -25,3 +25,4 @@ Package:
 - Nodemon
 - Mongoose
 - axios (to conect to external APIs)
+- cors
